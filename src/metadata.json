@@ -1,0 +1,5 @@
+{
+  "name": "Straßen-Scanner",
+  "description": "Erkennt Straßenschilder via Kamera.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
